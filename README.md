@@ -12,7 +12,7 @@
 
 として解釈し、  
 Pandocで変換した上で、Chrome上で表示するための秀丸用プラグインです。  
-ファイルを保存したタイミングで自動的にChrome上の表示も更新表示するためのプラグインとなります。
+ファイルを保存したタイミングで自動的にChrome上の表示も更新表示するためのコンポーネントとなります。
 
 [https://秀丸マクロ.net/?page=nobu_tool_hm_pandocpreviewchrome](https://秀丸マクロ.net/?page=nobu_tool_hm_pandocpreviewchrome)
 
